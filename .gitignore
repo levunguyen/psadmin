@@ -1,0 +1,14 @@
+.idea
+platforms/
+hooks/
+engine/
+dist/
+APK/
+#plugins/ios.json
+#plugins/android.json
+plugins/com.smartmobilesoftware.inappbilling/
+node_modules/
+bower_components
+www/css/ionic.app.css
+www/css/ionic.app.min.css
+package.json
